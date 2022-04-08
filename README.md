@@ -1,18 +1,11 @@
-<<<<<<< HEAD
-# Fakequipo
-
-Fakequipo is a product authentication and consumer engagement company that helps in analysing counterfeit medicines. The main motto of our website is save people from being counterfeited.
-
 
 ## Tech Stack
 1. node.js
 2. truffle
 3. ganache
-4. web3
-5. solidity
-6. HTML/CSS/JS
-7. Firebase
-8. IBM Watson Assistant
+4. solidity
+5. HTML/CSS/JS
+
  
 ## Prerequisites
 
@@ -26,13 +19,10 @@ Fakequipo is a product authentication and consumer engagement company that helps
 To run this on your local system, follow these steps:
 
 1. Clone this repository.
-```
-      https://github.com/Dharshini1810/FakeQuipo.git
-```
+      https://github.com/roshaniduratkar/Blockchain-based-fake-Drug-Detection-System.git
 
-2. Install all the dependencies.
-```
 
+2. Install all the dependencies
       npm install
       npm install web3
       npm install -g truffle
@@ -45,9 +35,6 @@ To run this on your local system, follow these steps:
 4. Run the following command:
 ```
      run dev
-      
-```
-You're all set! Head to localhost:7545 or http://127.0.0.1:7545 on your browser to check out 'Fakequipo'.
 
 ## Start Development
 1. Start new terminal tab and start compiling contract codes
@@ -62,8 +49,7 @@ You're all set! Head to localhost:7545 or http://127.0.0.1:7545 on your browser 
     truffle test
 
 ```
-3.If you want to test it using front end migrate contract to ganache local network and make sure you copy some addresses to MetaTask. hence, deployer will has all the roles and he is the only one can approve or give regulator role to another address.
-
+3.If you want to test it using front end migrate contract to ganache local network and make sure you copy some addresses to MetaTask. 
 ```
     truffle migrate --reset
 
@@ -77,13 +63,3 @@ You're all set! Head to localhost:7545 or http://127.0.0.1:7545 on your browser 
 ## Built With
 1. Solidity - Ethereum's smart contract programming language
 2. web3.js - Javascript library used to interact with the Ethereum blockchain
-
-## Team - De_facto Crypters
-Dharshini T 
-
-Swetha Lakshme S 
-
-Thoshinny B
-=======
-# Blockchain-based-fake-Drug-Detection-System
->>>>>>> cadf679dc1ef6660c697d50b0252b51ba5e6f59a
