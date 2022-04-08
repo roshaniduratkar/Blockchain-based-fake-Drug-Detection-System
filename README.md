@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fakequipo
 
 Fakequipo is a product authentication and consumer engagement company that helps in analysing counterfeit medicines. The main motto of our website is save people from being counterfeited.
@@ -83,3 +84,6 @@ Dharshini T
 Swetha Lakshme S 
 
 Thoshinny B
+=======
+# Blockchain-based-fake-Drug-Detection-System
+>>>>>>> cadf679dc1ef6660c697d50b0252b51ba5e6f59a
